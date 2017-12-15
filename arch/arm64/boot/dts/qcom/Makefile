@@ -236,6 +236,8 @@ dtb-$(CONFIG_ARCH_MSM8994) += \
 	msm8994-v2.1-htc_hima-xc.dtb \
 	msm8994-v2.1-htc_hima-xd.dtb \
 	msm8994-v2.1-htc_hima-pvt.dtb \
+	msm8994-htc_himaultra-xa-eng0000.dtb \
+	msm8994-htc_himaultra-xa-eng0100.dtb \
 
 dtb-$(CONFIG_ARCH_MSM8992) += msm8992-sim.dtb \
 	msm8992-rumi.dtb \
